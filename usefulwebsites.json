@@ -1,147 +1,211 @@
-{
-    "News": [
-        {"url": "https://www.bbc.com/news", "description": "Global news coverage from BBC."},
-        {"url": "https://www.cnn.com", "description": "Breaking news and analysis from CNN."},
-        {"url": "https://www.nytimes.com", "description": "In-depth journalism from The New York Times."}
-    ],
-    "Education": [
-        {"url": "https://www.khanacademy.org", "description": "Free online courses and lessons."},
-        {"url": "https://www.coursera.org", "description": "Online courses from top universities."},
-        {"url": "https://www.edx.org", "description": "Free and paid courses from global institutions."}
-    ],
-    "Productivity": [
-        {"url": "https://www.notion.so", "description": "All-in-one workspace for notes and tasks."},
-        {"url": "https://www.trello.com", "description": "Project management with boards."},
-        {"url": "https://www.asana.com", "description": "Task and team management tool."}
-    ],
-    "Entertainment": [
-        {"url": "https://www.netflix.com", "description": "Streaming movies and TV shows."},
-        {"url": "https://www.youtube.com", "description": "Video sharing and streaming."},
-        {"url": "https://www.hulu.com", "description": "TV shows and movies on demand."}
-    ],
-    "Health": [
-        {"url": "https://www.webmd.com", "description": "Health information and tools."},
-        {"url": "https://www.mayoclinic.org", "description": "Medical advice from Mayo Clinic."},
-        {"url": "https://www.healthline.com", "description": "Health and wellness articles."}
-    ],
-    "Shopping": [
-        {"url": "https://www.amazon.com", "description": "Online shopping for everything."},
-        {"url": "https://www.ebay.com", "description": "Auctions and second-hand goods."},
-        {"url": "https://www.walmart.com", "description": "Retail giant online store."}
-    ],
-    "Travel": [
-        {"url": "https://www.skyscanner.com", "description": "Compare flights and hotels."},
-        {"url": "https://www.booking.com", "description": "Hotel and accommodation booking."},
-        {"url": "https://www.tripadvisor.com", "description": "Travel reviews and recommendations."}
-    ],
-    "Technology": [
-        {"url": "https://www.theverge.com", "description": "Tech news and gadget reviews."},
-        {"url": "https://www.techcrunch.com", "description": "Startup and tech news."},
-        {"url": "https://www.wired.com", "description": "Technology and culture magazine."}
-    ],
-    "Social": [
-        {"url": "https://www.linkedin.com", "description": "Professional networking platform."},
-        {"url": "https://www.twitter.com", "description": "Microblogging and social updates."},
-        {"url": "https://www.facebook.com", "description": "Social networking giant."}
-    ],
-    "Design": [
-        {"url": "https://www.canva.com", "description": "Graphic design tool for all."},
-        {"url": "https://www.behance.net", "description": "Creative portfolio showcase."},
-        {"url": "https://www.dribbble.com", "description": "Design inspiration community."}
-    ],
-    "Finance": [
-        {"url": "https://www.mint.com", "description": "Personal finance and budgeting."},
-        {"url": "https://www.paypal.com", "description": "Online payment system."},
-        {"url": "https://www.robinhood.com", "description": "Commission-free investing."}
-    ],
-    "Communication": [
-        {"url": "https://www.slack.com", "description": "Team communication platform."},
-        {"url": "https://www.zoom.us", "description": "Video conferencing tool."},
-        {"url": "https://www.discord.com", "description": "Chat for communities and gamers."}
-    ],
-    "Gaming": [
-        {"url": "https://www.itch.io", "description": "Indie game marketplace."},
-        {"url": "https://www.steamcommunity.com", "description": "PC gaming platform."},
-        {"url": "https://www.epicgames.com", "description": "Epic Games store."}
-    ],
-    "Cooking": [
-        {"url": "https://www.allrecipes.com", "description": "Recipes and cooking tips."},
-        {"url": "https://www.epicurious.com", "description": "Gourmet recipes and guides."},
-        {"url": "https://www.foodnetwork.com", "description": "Cooking shows and recipes."}
-    ],
-    "Environment": [
-        {"url": "https://www.worldwildlife.org", "description": "Conservation resources."},
-        {"url": "https://www.greenpeace.org", "description": "Environmental activism."},
-        {"url": "https://www.nature.org", "description": "Nature Conservancy efforts."}
-    ],
-    "Jobs": [
-        {"url": "https://www.indeed.com", "description": "Job search engine."},
-        {"url": "https://www.glassdoor.com", "description": "Job listings and reviews."},
-        {"url": "https://www.monster.com", "description": "Career opportunities."}
-    ],
-    "Legal": [
-        {"url": "https://www.usa.gov", "description": "U.S. government services."},
-        {"url": "https://www.law.cornell.edu", "description": "Legal information institute."},
-        {"url": "https://www.findlaw.com", "description": "Legal resources and advice."}
-    ],
-    "Reference": [
-        {"url": "https://www.wikipedia.org", "description": "Free online encyclopedia."},
-        {"url": "https://www.britannica.com", "description": "Trusted reference articles."},
-        {"url": "https://www.merriam-webster.com", "description": "Online dictionary."}
-    ],
-    "Photography": [
-        {"url": "https://www.unsplash.com", "description": "Free stock photos."},
-        {"url": "https://www.pexels.com", "description": "High-quality free images."},
-        {"url": "https://www.shutterstock.com", "description": "Stock photography marketplace."}
-    ],
-    "Music": [
-        {"url": "https://www.spotify.com", "description": "Music streaming service."},
-        {"url": "https://www.soundcloud.com", "description": "Music sharing platform."},
-        {"url": "https://www.pandora.com", "description": "Personalized radio."}
-    ],
-    "Lifestyle": [
-        {"url": "https://www.lifehacker.com", "description": "Life tips and hacks."},
-        {"url": "https://www.buzzfeed.com", "description": "Lifestyle and quizzes."},
-        {"url": "https://www.realsimple.com", "description": "Practical living advice."}
-    ],
-    "Science": [
-        {"url": "https://www.nationalgeographic.com", "description": "Science and exploration."},
-        {"url": "https://www.scientificamerican.com", "description": "Science news."},
-        {"url": "https://www.nasa.gov", "description": "Space exploration updates."}
-    ],
-    "Family": [
-        {"url": "https://www.parenting.com", "description": "Parenting advice."},
-        {"url": "https://www.babycenter.com", "description": "Pregnancy and baby info."},
-        {"url": "https://www.familyeducation.com", "description": "Family resources."}
-    ],
-    "Sports": [
-        {"url": "https://www.espn.com", "description": "Sports news and scores."},
-        {"url": "https://www.cbssports.com", "description": "Sports updates."},
-        {"url": "https://www.si.com", "description": "Sports Illustrated online."}
-    ],
-    "Home": [
-        {"url": "https://www.houzz.com", "description": "Home design ideas."},
-        {"url": "https://www.diynetwork.com", "description": "DIY home projects."},
-        {"url": "https://www.hgtv.com", "description": "Home and garden inspiration."}
-    ],
-    "Pets": [
-        {"url": "https://www.petfinder.com", "description": "Adoptable pets."},
-        {"url": "https://www.aspca.org", "description": "Animal welfare info."},
-        {"url": "https://www.petco.com", "description": "Pet supplies and care."}
-    ],
-    "Fashion": [
-        {"url": "https://www.vogue.com", "description": "Fashion trends and news."},
-        {"url": "https://www.elle.com", "description": "Fashion and beauty magazine."},
-        {"url": "https://www.gq.com", "description": "Men’s style and fashion."}
-    ],
-    "Books": [
-        {"url": "https://www.goodreads.com", "description": "Book reviews and lists."},
-        {"url": "https://www.audible.com", "description": "Audiobook service."},
-        {"url": "https://www.bookdepository.com", "description": "Free shipping on books."}
-    ],
-    "Art": [
-        {"url": "https://www.metmuseum.org", "description": "Metropolitan Museum art."},
-        {"url": "https://www.moma.org", "description": "Museum of Modern Art."},
-        {"url": "https://www.artsy.net", "description": "Art marketplace and info."}
-    ]
-}
+[
+    {"category": "Search & Reference", "name": "Google", "url": "https://www.google.com", "description": "The world's most popular search engine"},
+    {"category": "Search & Reference", "name": "Wikipedia", "url": "https://www.wikipedia.org", "description": "Free online encyclopedia"},
+    {"category": "Search & Reference", "name": "Internet Archive", "url": "https://archive.org", "description": "Digital library of free books, websites, and more"},
+    {"category": "Search & Reference", "name": "DuckDuckGo", "url": "https://duckduckgo.com", "description": "Privacy-focused search engine"},
+    {"category": "Search & Reference", "name": "Wolfram Alpha", "url": "https://www.wolframalpha.com", "description": "Computational knowledge engine"},
+    {"category": "Search & Reference", "name": "Google Scholar", "url": "https://scholar.google.com", "description": "Academic research search engine"},
+    {"category": "Search & Reference", "name": "Britannica", "url": "https://www.britannica.com", "description": "Comprehensive online encyclopedia"},
+    {"category": "Search & Reference", "name": "ScienceDirect", "url": "https://www.sciencedirect.com", "description": "Scientific and medical research database"},
+    {"category": "Search & Reference", "name": "Scopus", "url": "https://www.scopus.com", "description": "Abstracts and citations database"},
+    {"category": "Search & Reference", "name": "ResearchGate", "url": "https://www.researchgate.net", "description": "Scientific social network"},
+    {"category": "Search & Reference", "name": "WorldCat", "url": "https://www.worldcat.org", "description": "Global library catalog"},
+    {"category": "Search & Reference", "name": "PubMed", "url": "https://pubmed.ncbi.nlm.nih.gov", "description": "Medical research database"},
+    {"category": "Search & Reference", "name": "JSTOR", "url": "https://www.jstor.org", "description": "Digital academic library"},
+    {"category": "Search & Reference", "name": "Semantic Scholar", "url": "https://www.semanticscholar.org", "description": "AI-powered research tool"},
+    {"category": "Search & Reference", "name": "arXiv", "url": "https://arxiv.org", "description": "Open-access research repository"},
+    {"category": "Search & Reference", "name": "Crossref", "url": "https://www.crossref.org", "description": "Academic metadata and linking"},
+    {"category": "Search & Reference", "name": "Sci-Hub", "url": "https://sci-hub.se", "description": "Scientific paper access platform"},
+    {"category": "Search & Reference", "name": "Google Books", "url": "https://books.google.com", "description": "Digital book library and search"},
+    {"category": "Search & Reference", "name": "Bing", "url": "https://www.bing.com", "description": "Microsoft's search engine"},
+    {"category": "Search & Reference", "name": "Academic Search Complete", "url": "https://www.ebscohost.com", "description": "Comprehensive academic database"},
+
+    {"category": "Entertainment", "name": "YouTube", "url": "https://www.youtube.com", "description": "Video sharing and streaming platform"},
+    {"category": "Entertainment", "name": "Netflix", "url": "https://www.netflix.com", "description": "Streaming service for movies and TV shows"},
+    {"category": "Entertainment", "name": "Spotify", "url": "https://www.spotify.com", "description": "Music streaming platform"},
+    {"category": "Entertainment", "name": "IMDb", "url": "https://www.imdb.com", "description": "Movie and TV show information database"},
+    {"category": "Entertainment", "name": "Twitch", "url": "https://www.twitch.tv", "description": "Live streaming platform for gaming and more"},
+    {"category": "Entertainment", "name": "Hulu", "url": "https://www.hulu.com", "description": "Streaming service with TV shows and movies"},
+    {"category": "Entertainment", "name": "Disney+", "url": "https://www.disneyplus.com", "description": "Disney, Pixar, Marvel, Star Wars streaming"},
+    {"category": "Entertainment", "name": "HBO Max", "url": "https://www.hbomax.com", "description": "Streaming platform for HBO content"},
+    {"category": "Entertainment", "name": "Apple Music", "url": "https://www.apple.com/apple-music", "description": "Music streaming service"},
+    {"category": "Entertainment", "name": "Pandora", "url": "https://www.pandora.com", "description": "Music streaming and recommendation"},
+    {"category": "Entertainment", "name": "Amazon Prime Video", "url": "https://www.amazon.com/Prime-Video", "description": "Video streaming for Prime members"},
+    {"category": "Entertainment", "name": "Crunchyroll", "url": "https://www.crunchyroll.com", "description": "Anime streaming platform"},
+    {"category": "Entertainment", "name": "Tidal", "url": "https://tidal.com", "description": "High-fidelity music streaming"},
+    {"category": "Entertainment", "name": "Letterboxd", "url": "https://letterboxd.com", "description": "Social network for film enthusiasts"},
+    {"category": "Entertainment", "name": "Last.fm", "url": "https://www.last.fm", "description": "Music tracking and recommendation"},
+    {"category": "Entertainment", "name": "Audible", "url": "https://www.audible.com", "description": "Audiobook streaming platform"},
+    {"category": "Entertainment", "name": "Vimeo", "url": "https://vimeo.com", "description": "High-quality video platform"},
+    {"category": "Entertainment", "name": "SoundCloud", "url": "https://soundcloud.com", "description": "Music and audio sharing platform"},
+    {"category": "Entertainment", "name": "Bandcamp", "url": "https://bandcamp.com", "description": "Music platform for independent artists"},
+    {"category": "Entertainment", "name": "Dailymotion", "url": "https://www.dailymotion.com", "description": "Video sharing platform"},
+
+    {"category": "Social Media", "name": "Twitter", "url": "https://www.twitter.com", "description": "Microblogging and social networking platform"},
+    {"category": "Social Media", "name": "Facebook", "url": "https://www.facebook.com", "description": "Global social networking site"},
+    {"category": "Social Media", "name": "Instagram", "url": "https://www.instagram.com", "description": "Photo and video sharing network"},
+    {"category": "Social Media", "name": "LinkedIn", "url": "https://www.linkedin.com", "description": "Professional networking platform"},
+    {"category": "Social Media", "name": "Reddit", "url": "https://www.reddit.com", "description": "Community-driven discussion platform"},
+    {"category": "Social Media", "name": "TikTok", "url": "https://www.tiktok.com", "description": "Short-form video sharing app"},
+    {"category": "Social Media", "name": "Pinterest", "url": "https://www.pinterest.com", "description": "Visual discovery and bookmarking tool"},
+    {"category": "Social Media", "name": "Snapchat", "url": "https://www.snapchat.com", "description": "Multimedia messaging app"},
+    {"category": "Social Media", "name": "Tumblr", "url": "https://www.tumblr.com", "description": "Blogging and social networking site"},
+    {"category": "Social Media", "name": "Discord", "url": "https://discord.com", "description": "Chat platform for communities"},
+    {"category": "Social Media", "name": "Mastodon", "url": "https://mastodon.social", "description": "Decentralized social network"},
+    {"category": "Social Media", "name": "WhatsApp", "url": "https://www.whatsapp.com", "description": "Secure messaging app"},
+    {"category": "Social Media", "name": "Telegram", "url": "https://telegram.org", "description": "Privacy-focused messaging platform"},
+    {"category": "Social Media", "name": "WeChat", "url": "https://www.wechat.com", "description": "Multi-purpose messaging app"},
+    {"category": "Social Media", "name": "Signal", "url": "https://signal.org", "description": "Encrypted messaging service"},
+    {"category": "Social Media", "name": "Viber", "url": "https://www.viber.com", "description": "VoIP and messaging app"},
+    {"category": "Social Media", "name": "Flickr", "url": "https://www.flickr.com", "description": "Photo sharing and community platform"},
+    {"category": "Social Media", "name": "Meetup", "url": "https://www.meetup.com", "description": "Event organizing and social platform"},
+    {"category": "Social Media", "name": "Nextdoor", "url": "https://nextdoor.com", "description": "Neighborhood-based social network"},
+    {"category": "Social Media", "name": "Goodreads", "url": "https://www.goodreads.com", "description": "Social network for book lovers"},
+
+    {"category": "News", "name": "CNN", "url": "https://www.cnn.com", "description": "Global news network"},
+    {"category": "News", "name": "BBC", "url": "https://www.bbc.com", "description": "British public service broadcaster"},
+    {"category": "News", "name": "The New York Times", "url": "https://www.nytimes.com", "description": "American news publication"},
+    {"category": "News", "name": "Reuters", "url": "https://www.reuters.com", "description": "International news agency"},
+    {"category": "News", "name": "The Guardian", "url": "https://www.theguardian.com", "description": "British news and media outlet"},
+    {"category": "News", "name": "Al Jazeera", "url": "https://www.aljazeera.com", "description": "Qatari-funded news network"},
+    {"category": "News", "name": "Fox News", "url": "https://www.foxnews.com", "description": "American conservative news channel"},
+    {"category": "News", "name": "NPR", "url": "https://www.npr.org", "description": "National Public Radio"},
+    {"category": "News", "name": "AP News", "url": "https://www.apnews.com", "description": "Associated Press news service"},
+    {"category": "News", "name": "Bloomberg", "url": "https://www.bloomberg.com", "description": "Financial and business news"},
+    {"category": "News", "name": "The Wall Street Journal", "url": "https://www.wsj.com", "description": "Business-focused news outlet"},
+    {"category": "News", "name": "HuffPost", "url": "https://www.huffpost.com", "description": "Liberal news and opinion site"},
+    {"category": "News", "name": "Politico", "url": "https://www.politico.com", "description": "Political journalism platform"},
+    {"category": "News", "name": "The Washington Post", "url": "https://www.washingtonpost.com", "description": "American daily newspaper"},
+    {"category": "News", "name": "TIME", "url": "https://time.com", "description": "Weekly news magazine"},
+    {"category": "News", "name": "The Atlantic", "url": "https://www.theatlantic.com", "description": "American magazine and news site"},
+    {"category": "News", "name": "Euronews", "url": "https://www.euronews.com", "description": "European multilingual news"},
+    {"category": "News", "name": "DW", "url": "https://www.dw.com", "description": "German international broadcaster"},
+    {"category": "News", "name": "CBS News", "url": "https://www.cbsnews.com", "description": "American news broadcasting"},
+    {"category": "News", "name": "NBC News", "url": "https://www.nbcnews.com", "description": "National Broadcasting Company news"},
+
+    {"category": "Education", "name": "Khan Academy", "url": "https://www.khanacademy.org", "description": "Free online learning platform"},
+    {"category": "Education", "name": "Coursera", "url": "https://www.coursera.org", "description": "Online courses from universities"},
+    {"category": "Education", "name": "edX", "url": "https://www.edx.org", "description": "Massive open online courses"},
+    {"category": "Education", "name": "Udemy", "url": "https://www.udemy.com", "description": "Online learning marketplace"},
+    {"category": "Education", "name": "Duolingo", "url": "https://www.duolingo.com", "description": "Language learning app"},
+    {"category": "Education", "name": "Quizlet", "url": "https://quizlet.com", "description": "Study tools and flashcards"},
+    {"category": "Education", "name": "TED-Ed", "url": "https://ed.ted.com", "description": "Educational video platform"},
+    {"category": "Education", "name": "MIT OpenCourseWare", "url": "https://ocw.mit.edu", "description": "Free MIT course materials"},
+    {"category": "Education", "name": "OpenStax", "url": "https://openstax.org", "description": "Free textbooks for education"},
+    {"category": "Education", "name": "Class Central", "url": "https://www.classcentral.com", "description": "MOOC discovery platform"},
+    {"category": "Education", "name": "FutureLearn", "url": "https://www.futurelearn.com", "description": "Online courses and degrees"},
+    {"category": "Education", "name": "Skillshare", "url": "https://www.skillshare.com", "description": "Creative and practical skills courses"},
+    {"category": "Education", "name": "Codeacademy", "url": "https://www.codecademy.com", "description": "Interactive coding lessons"},
+    {"category": "Education", "name": "Brilliant", "url": "https://brilliant.org", "description": "Problem-solving learning platform"},
+    {"category": "Education", "name": "Pluralsight", "url": "https://www.pluralsight.com", "description": "Tech and creative training"},
+    {"category": "Education", "name": "MasterClass", "url": "https://www.masterclass.com", "description": "Classes from experts"},
+    {"category": "Education", "name": "BBC Learning English", "url": "https://www.bbc.co.uk/learningenglish", "description": "Free English learning resources"},
+    {"category": "Education", "name": "Saylor Academy", "url": "https://www.saylor.org", "description": "Free online education"},
+    {"category": "Education", "name": "OpenLearn", "url": "https://www.open.edu/openlearn", "description": "Free courses from Open University"},
+    {"category": "Education", "name": "Alison", "url": "https://alison.com", "description": "Free online courses and certificates"}
+
+    {"category": "Shopping", "name": "Amazon", "url": "https://www.amazon.com", "description": "Global e-commerce marketplace"},
+    {"category": "Shopping", "name": "eBay", "url": "https://www.ebay.com", "description": "Online auction and shopping site"},
+    {"category": "Shopping", "name": "Etsy", "url": "https://www.etsy.com", "description": "Handmade and vintage marketplace"},
+    {"category": "Shopping", "name": "Walmart", "url": "https://www.walmart.com", "description": "Retail and e-commerce platform"},
+    {"category": "Shopping", "name": "AliExpress", "url": "https://www.aliexpress.com", "description": "Global online retail service"},
+    {"category": "Shopping", "name": "Target", "url": "https://www.target.com", "description": "American retail e-commerce"},
+    {"category": "Shopping", "name": "Shopify", "url": "https://www.shopify.com", "description": "E-commerce platform for businesses"},
+    {"category": "Shopping", "name": "Best Buy", "url": "https://www.bestbuy.com", "description": "Electronics and appliance retailer"},
+    {"category": "Shopping", "name": "Newegg", "url": "https://www.newegg.com", "description": "Tech-focused online retailer"},
+    {"category": "Shopping", "name": "Zappos", "url": "https://www.zappos.com", "description": "Online shoe and clothing store"},
+    {"category": "Shopping", "name": "Overstock", "url": "https://www.overstock.com", "description": "Discount online retailer"},
+    {"category": "Shopping", "name": "Rakuten", "url": "https://www.rakuten.com", "description": "E-commerce and cashback platform"},
+    {"category": "Shopping", "name": "ASOS", "url": "https://www.asos.com", "description": "Fashion and beauty retailer"},
+    {"category": "Shopping", "name": "Wish", "url": "https://www.wish.com", "description": "Affordable e-commerce marketplace"},
+    {"category": "Shopping", "name": "Craigslist", "url": "https://www.craigslist.org", "description": "Classifieds and local sales"},
+    {"category": "Shopping", "name": "Mercari", "url": "https://www.mercari.com", "description": "Second-hand goods marketplace"},
+    {"category": "Shopping", "name": "Wayfair", "url": "https://www.wayfair.com", "description": "Home goods and furniture retailer"},
+    {"category": "Shopping", "name": "Shein", "url": "https://www.shein.com", "description": "Fast fashion online retailer"},
+    {"category": "Shopping", "name": "Temu", "url": "https://www.temu.com", "description": "Affordable global e-commerce"},
+    {"category": "Shopping", "name": "Groupon", "url": "https://www.groupon.com", "description": "Deals and discounts marketplace"},
+
+    {"category": "Productivity", "name": "Google Drive", "url": "https://www.google.com/drive", "description": "Cloud storage and file sharing"},
+    {"category": "Productivity", "name": "Dropbox", "url": "https://www.dropbox.com", "description": "File hosting and collaboration"},
+    {"category": "Productivity", "name": "Microsoft OneDrive", "url": "https://www.microsoft.com/onedrive", "description": "Cloud storage service"},
+    {"category": "Productivity", "name": "Trello", "url": "https://trello.com", "description": "Project management tool"},
+    {"category": "Productivity", "name": "Asana", "url": "https://asana.com", "description": "Team task management platform"},
+    {"category": "Productivity", "name": "Notion", "url": "https://www.notion.so", "description": "All-in-one workspace tool"},
+    {"category": "Productivity", "name": "Evernote", "url": "https://evernote.com", "description": "Note-taking and organization app"},
+    {"category": "Productivity", "name": "Slack", "url": "https://slack.com", "description": "Team communication platform"},
+    {"category": "Productivity", "name": "Zoom", "url": "https://zoom.us", "description": "Video conferencing software"},
+    {"category": "Productivity", "name": "Microsoft Teams", "url": "https://www.microsoft.com/teams", "description": "Collaboration and chat tool"},
+    {"category": "Productivity", "name": "Todoist", "url": "https://todoist.com", "description": "Task management app"},
+    {"category": "Productivity", "name": "Airtable", "url": "https://airtable.com", "description": "Spreadsheet-database hybrid"},
+    {"category": "Productivity", "name": "Monday.com", "url": "https://monday.com", "description": "Work operating system"},
+    {"category": "Productivity", "name": "ClickUp", "url": "https://clickup.com", "description": "All-in-one productivity platform"},
+    {"category": "Productivity", "name": "Zapier", "url": "https://zapier.com", "description": "Automation for app workflows"},
+    {"category": "Productivity", "name": "Calendly", "url": "https://calendly.com", "description": "Scheduling automation tool"},
+    {"category": "Productivity", "name": "Grammarly", "url": "https://www.grammarly.com", "description": "Writing and grammar checker"},
+    {"category": "Productivity", "name": "RescueTime", "url": "https://www.rescuetime.com", "description": "Time management tracker"},
+    {"category": "Productivity", "name": "LastPass", "url": "https://www.lastpass.com", "description": "Password management tool"},
+    {"category": "Productivity", "name": "Bitwarden", "url": "https://bitwarden.com", "description": "Open-source password manager"},
+
+    {"category": "Gaming", "name": "Steam", "url": "https://store.steampowered.com", "description": "Digital distribution for games"},
+    {"category": "Gaming", "name": "Epic Games Store", "url": "https://www.epicgames.com/store", "description": "Game store and launcher"},
+    {"category": "Gaming", "name": "GOG", "url": "https://www.gog.com", "description": "DRM-free game platform"},
+    {"category": "Gaming", "name": "Itch.io", "url": "https://itch.io", "description": "Indie game marketplace"},
+    {"category": "Gaming", "name": "Humble Bundle", "url": "https://www.humblebundle.com", "description": "Game bundles for charity"},
+    {"category": "Gaming", "name": "Origin", "url": "https://www.origin.com", "description": "EA’s gaming platform"},
+    {"category": "Gaming", "name": "Battle.net", "url": "https://www.battle.net", "description": "Blizzard’s gaming hub"},
+    {"category": "Gaming", "name": "Roblox", "url": "https://www.roblox.com", "description": "Game creation and playing platform"},
+    {"category": "Gaming", "name": "Miniclip", "url": "https://www.miniclip.com", "description": "Free online games"},
+    {"category": "Gaming", "name": "Kongregate", "url": "https://www.kongregate.com", "description": "Web-based gaming portal"},
+    {"category": "Gaming", "name": "Newgrounds", "url": "https://www.newgrounds.com", "description": "Indie games and animation"},
+    {"category": "Gaming", "name": "Armor Games", "url": "https://armorgames.com", "description": "Free online flash games"},
+    {"category": "Gaming", "name": "Game Jolt", "url": "https://gamejolt.com", "description": "Indie game community"},
+    {"category": "Gaming", "name": "Ubisoft Connect", "url": "https://connect.ubisoft.com", "description": "Ubisoft’s gaming service"},
+    {"category": "Gaming", "name": "Xbox", "url": "https://www.xbox.com", "description": "Microsoft’s gaming platform"},
+    {"category": "Gaming", "name": "PlayStation Store", "url": "https://store.playstation.com", "description": "Sony’s digital game store"},
+    {"category": "Gaming", "name": "Nintendo eShop", "url": "https://www.nintendo.com/eshop", "description": "Nintendo’s online store"},
+    {"category": "Gaming", "name": "IGN", "url": "https://www.ign.com", "description": "Gaming news and reviews"},
+    {"category": "Gaming", "name": "GameSpot", "url": "https://www.gamespot.com", "description": "Video game news and community"},
+    {"category": "Gaming", "name": "Polygon", "url": "https://www.polygon.com", "description": "Gaming culture and reviews"},
+
+    {"category": "Health", "name": "WebMD", "url": "https://www.webmd.com", "description": "Health information and tools"},
+    {"category": "Health", "name": "Mayo Clinic", "url": "https://www.mayoclinic.org", "description": "Medical info and patient care"},
+    {"category": "Health", "name": "Healthline", "url": "https://www.healthline.com", "description": "Wellness and medical advice"},
+    {"category": "Health", "name": "CDC", "url": "https://www.cdc.gov", "description": "U.S. public health agency"},
+    {"category": "Health", "name": "WHO", "url": "https://www.who.int", "description": "World Health Organization"},
+    {"category": "Health", "name": "MedlinePlus", "url": "https://medlineplus.gov", "description": "Health info from NIH"},
+    {"category": "Health", "name": "MyFitnessPal", "url": "https://www.myfitnesspal.com", "description": "Nutrition and fitness tracker"},
+    {"category": "Health", "name": "Fitbit", "url": "https://www.fitbit.com", "description": "Fitness tracking and wearables"},
+    {"category": "Health", "name": "Calm", "url": "https://www.calm.com", "description": "Meditation and sleep app"},
+    {"category": "Health", "name": "Headspace", "url": "https://www.headspace.com", "description": "Mindfulness and meditation"},
+    {"category": "Health", "name": "Noom", "url": "https://www.noom.com", "description": "Weight loss and health coaching"},
+    {"category": "Health", "name": "Strava", "url": "https://www.strava.com", "description": "Fitness tracking for athletes"},
+    {"category": "Health", "name": "Sleep Cycle", "url": "https://www.sleepcycle.com", "description": "Sleep analysis app"},
+    {"category": "Health", "name": "NHS", "url": "https://www.nhs.uk", "description": "UK’s National Health Service"},
+    {"category": "Health", "name": "Drugs.com", "url": "https://www.drugs.com", "description": "Medication info and interactions"},
+    {"category": "Health", "name": "Period Tracker", "url": "https://www.period-tracker.com", "description": "Menstrual cycle tracking"},
+    {"category": "Health", "name": "GoodRx", "url": "https://www.goodrx.com", "description": "Prescription drug price comparison"},
+    {"category": "Health", "name": "Zocdoc", "url": "https://www.zocdoc.com", "description": "Doctor appointment booking"},
+    {"category": "Health", "name": "23andMe", "url": "https://www.23andme.com", "description": "DNA testing and health insights"},
+    {"category": "Health", "name": "Peloton", "url": "https://www.onepeloton.com", "description": "Fitness classes and equipment"},
+
+    {"category": "Travel", "name": "Google Maps", "url": "https://maps.google.com", "description": "Mapping and navigation tool"},
+    {"category": "Travel", "name": "Tripadvisor", "url": "https://www.tripadvisor.com", "description": "Travel reviews and booking"},
+    {"category": "Travel", "name": "Expedia", "url": "https://www.expedia.com", "description": "Travel booking platform"},
+    {"category": "Travel", "name": "Booking.com", "url": "https://www.booking.com", "description": "Hotel and travel reservations"},
+    {"category": "Travel", "name": "Airbnb", "url": "https://www.airbnb.com", "description": "Vacation rentals and experiences"},
+    {"category": "Travel", "name": "Kayak", "url": "https://www.kayak.com", "description": "Travel search and comparison"},
+    {"category": "Travel", "name": "Skyscanner", "url": "https://www.skyscanner.com", "description": "Flight price comparison"},
+    {"category": "Travel", "name": "Lonely Planet", "url": "https://www.lonelyplanet.com", "description": "Travel guides and tips"},
+    {"category": "Travel", "name": "Trivago", "url": "https://www.trivago.com", "description": "Hotel price comparison"},
+    {"category": "Travel", "name": "Orbitz", "url": "https://www.orbitz.com", "description": "Travel booking and deals"},
+    {"category": "Travel", "name": "Rome2rio", "url": "https://www.rome2rio.com", "description": "Multi-modal travel planner"},
+    {"category": "Travel", "name": "Hopper", "url": "https://www.hopper.com", "description": "Flight price prediction"},
+    {"category": "Travel", "name": "Yelp", "url": "https://www.yelp.com", "description": "Local business reviews"},
+    {"category": "Travel", "name": "Google Flights", "url": "https://www.google.com/flights", "description": "Flight search engine"},
+    {"category": "Travel", "name": "SeatGuru", "url": "https://www.seatguru.com", "description": "Airline seat reviews"},
+    {"category": "Travel", "name": "Viator", "url": "https://www.viator.com", "description": "Tours and activities booking"},
+    {"category": "Travel", "name": "Couchsurfing", "url": "https://www.couchsurfing.com", "description": "Travel community and lodging"},
+    {"category": "Travel", "name": "Roadtrippers", "url": "https://roadtrippers.com", "description": "Road trip planning tool"},
+    {"category": "Travel", "name": "Travelocity", "url": "https://www.travelocity.com", "description": "Travel booking service"},
+    {"category": "Travel", "name": "Wikitravel", "url": "https://wikitravel.org", "description": "Collaborative travel guide"}
+]
