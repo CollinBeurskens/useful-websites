@@ -3,174 +3,145 @@
         {"url": "https://www.bbc.com/news", "description": "Global news coverage from BBC."},
         {"url": "https://www.cnn.com", "description": "Breaking news and analysis from CNN."},
         {"url": "https://www.nytimes.com", "description": "In-depth journalism from The New York Times."}
-        // Add 77 more entries here
     ],
     "Education": [
         {"url": "https://www.khanacademy.org", "description": "Free online courses and lessons."},
         {"url": "https://www.coursera.org", "description": "Online courses from top universities."},
         {"url": "https://www.edx.org", "description": "Free and paid courses from global institutions."}
-        // Add 77 more entries here
     ],
     "Productivity": [
         {"url": "https://www.notion.so", "description": "All-in-one workspace for notes and tasks."},
         {"url": "https://www.trello.com", "description": "Project management with boards."},
         {"url": "https://www.asana.com", "description": "Task and team management tool."}
-        // Add 77 more entries here
     ],
     "Entertainment": [
         {"url": "https://www.netflix.com", "description": "Streaming movies and TV shows."},
         {"url": "https://www.youtube.com", "description": "Video sharing and streaming."},
         {"url": "https://www.hulu.com", "description": "TV shows and movies on demand."}
-        // Add 77 more entries here
     ],
     "Health": [
         {"url": "https://www.webmd.com", "description": "Health information and tools."},
         {"url": "https://www.mayoclinic.org", "description": "Medical advice from Mayo Clinic."},
         {"url": "https://www.healthline.com", "description": "Health and wellness articles."}
-        // Add 77 more entries here
     ],
     "Shopping": [
         {"url": "https://www.amazon.com", "description": "Online shopping for everything."},
         {"url": "https://www.ebay.com", "description": "Auctions and second-hand goods."},
         {"url": "https://www.walmart.com", "description": "Retail giant online store."}
-        // Add 77 more entries here
     ],
     "Travel": [
         {"url": "https://www.skyscanner.com", "description": "Compare flights and hotels."},
         {"url": "https://www.booking.com", "description": "Hotel and accommodation booking."},
         {"url": "https://www.tripadvisor.com", "description": "Travel reviews and recommendations."}
-        // Add 77 more entries here
     ],
     "Technology": [
         {"url": "https://www.theverge.com", "description": "Tech news and gadget reviews."},
         {"url": "https://www.techcrunch.com", "description": "Startup and tech news."},
         {"url": "https://www.wired.com", "description": "Technology and culture magazine."}
-        // Add 77 more entries here
     ],
     "Social": [
         {"url": "https://www.linkedin.com", "description": "Professional networking platform."},
         {"url": "https://www.twitter.com", "description": "Microblogging and social updates."},
         {"url": "https://www.facebook.com", "description": "Social networking giant."}
-        // Add 77 more entries here
     ],
     "Design": [
         {"url": "https://www.canva.com", "description": "Graphic design tool for all."},
         {"url": "https://www.behance.net", "description": "Creative portfolio showcase."},
         {"url": "https://www.dribbble.com", "description": "Design inspiration community."}
-        // Add 77 more entries here
     ],
     "Finance": [
         {"url": "https://www.mint.com", "description": "Personal finance and budgeting."},
         {"url": "https://www.paypal.com", "description": "Online payment system."},
         {"url": "https://www.robinhood.com", "description": "Commission-free investing."}
-        // Add 77 more entries here
     ],
     "Communication": [
         {"url": "https://www.slack.com", "description": "Team communication platform."},
         {"url": "https://www.zoom.us", "description": "Video conferencing tool."},
         {"url": "https://www.discord.com", "description": "Chat for communities and gamers."}
-        // Add 77 more entries here
     ],
     "Gaming": [
         {"url": "https://www.itch.io", "description": "Indie game marketplace."},
         {"url": "https://www.steamcommunity.com", "description": "PC gaming platform."},
         {"url": "https://www.epicgames.com", "description": "Epic Games store."}
-        // Add 77 more entries here
     ],
     "Cooking": [
         {"url": "https://www.allrecipes.com", "description": "Recipes and cooking tips."},
         {"url": "https://www.epicurious.com", "description": "Gourmet recipes and guides."},
         {"url": "https://www.foodnetwork.com", "description": "Cooking shows and recipes."}
-        // Add 77 more entries here
     ],
     "Environment": [
         {"url": "https://www.worldwildlife.org", "description": "Conservation resources."},
         {"url": "https://www.greenpeace.org", "description": "Environmental activism."},
         {"url": "https://www.nature.org", "description": "Nature Conservancy efforts."}
-        // Add 77 more entries here
     ],
     "Jobs": [
         {"url": "https://www.indeed.com", "description": "Job search engine."},
         {"url": "https://www.glassdoor.com", "description": "Job listings and reviews."},
         {"url": "https://www.monster.com", "description": "Career opportunities."}
-        // Add 77 more entries here
     ],
     "Legal": [
         {"url": "https://www.usa.gov", "description": "U.S. government services."},
         {"url": "https://www.law.cornell.edu", "description": "Legal information institute."},
         {"url": "https://www.findlaw.com", "description": "Legal resources and advice."}
-        // Add 77 more entries here
     ],
     "Reference": [
         {"url": "https://www.wikipedia.org", "description": "Free online encyclopedia."},
         {"url": "https://www.britannica.com", "description": "Trusted reference articles."},
         {"url": "https://www.merriam-webster.com", "description": "Online dictionary."}
-        // Add 77 more entries here
     ],
     "Photography": [
         {"url": "https://www.unsplash.com", "description": "Free stock photos."},
         {"url": "https://www.pexels.com", "description": "High-quality free images."},
         {"url": "https://www.shutterstock.com", "description": "Stock photography marketplace."}
-        // Add 77 more entries here
     ],
     "Music": [
         {"url": "https://www.spotify.com", "description": "Music streaming service."},
         {"url": "https://www.soundcloud.com", "description": "Music sharing platform."},
         {"url": "https://www.pandora.com", "description": "Personalized radio."}
-        // Add 77 more entries here
     ],
     "Lifestyle": [
         {"url": "https://www.lifehacker.com", "description": "Life tips and hacks."},
         {"url": "https://www.buzzfeed.com", "description": "Lifestyle and quizzes."},
         {"url": "https://www.realsimple.com", "description": "Practical living advice."}
-        // Add 77 more entries here
     ],
     "Science": [
         {"url": "https://www.nationalgeographic.com", "description": "Science and exploration."},
         {"url": "https://www.scientificamerican.com", "description": "Science news."},
         {"url": "https://www.nasa.gov", "description": "Space exploration updates."}
-        // Add 77 more entries here
     ],
     "Family": [
         {"url": "https://www.parenting.com", "description": "Parenting advice."},
         {"url": "https://www.babycenter.com", "description": "Pregnancy and baby info."},
         {"url": "https://www.familyeducation.com", "description": "Family resources."}
-        // Add 77 more entries here
     ],
     "Sports": [
         {"url": "https://www.espn.com", "description": "Sports news and scores."},
         {"url": "https://www.cbssports.com", "description": "Sports updates."},
         {"url": "https://www.si.com", "description": "Sports Illustrated online."}
-        // Add 77 more entries here
     ],
     "Home": [
         {"url": "https://www.houzz.com", "description": "Home design ideas."},
         {"url": "https://www.diynetwork.com", "description": "DIY home projects."},
         {"url": "https://www.hgtv.com", "description": "Home and garden inspiration."}
-        // Add 77 more entries here
     ],
     "Pets": [
         {"url": "https://www.petfinder.com", "description": "Adoptable pets."},
         {"url": "https://www.aspca.org", "description": "Animal welfare info."},
         {"url": "https://www.petco.com", "description": "Pet supplies and care."}
-        // Add 77 more entries here
     ],
     "Fashion": [
         {"url": "https://www.vogue.com", "description": "Fashion trends and news."},
         {"url": "https://www.elle.com", "description": "Fashion and beauty magazine."},
         {"url": "https://www.gq.com", "description": "Men’s style and fashion."}
-        // Add 77 more entries here
     ],
     "Books": [
         {"url": "https://www.goodreads.com", "description": "Book reviews and lists."},
         {"url": "https://www.audible.com", "description": "Audiobook service."},
         {"url": "https://www.bookdepository.com", "description": "Free shipping on books."}
-        // Add 77 more entries here
     ],
     "Art": [
         {"url": "https://www.metmuseum.org", "description": "Metropolitan Museum art."},
         {"url": "https://www.moma.org", "description": "Museum of Modern Art."},
         {"url": "https://www.artsy.net", "description": "Art marketplace and info."}
-        // Add 77 more entries here
     ]
 }
